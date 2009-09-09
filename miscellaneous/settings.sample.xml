@@ -1,0 +1,17 @@
+<settings>
+  <activeProfiles>
+    <activeProfile>forecastGuru</activeProfile>
+  </activeProfiles>
+  <profiles>
+    <profile>
+      <id>forecastGuru</id>
+      <properties>
+	<forecastGuru.version>0.1-SNAPSHOT</forecastGuru.version>
+        <db.host>localhost</db.host>
+        <db.database>forecastGuru</db.database>
+        <db.user>mheras</db.user>
+        <db.password>mheras</db.password>
+      </properties>
+    </profile>
+  </profiles>
+</settings>
