@@ -1,4 +1,4 @@
-Welcome to AppFuse Light!
+Welcome to Forecast Guru!
 
 ==================
  About AppFuse Light
